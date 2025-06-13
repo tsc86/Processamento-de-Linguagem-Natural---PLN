@@ -6,15 +6,16 @@ Este repositório reúne notebooks desenvolvidos na disciplina de **Processament
 
 ## 🚀 Estrutura do Projeto
 
-| Pasta                              | Descrição |
-|-----------------------------------|-----------|
-| `A - 02 Python e Bibliotecas`     | Conceitos fundamentais de Python, estruturas de controle, tipos de dados e bibliotecas como `pandas` e `numpy`. |
-| `A - 03 Processamento de Texto`   | Técnicas de limpeza de texto, tokenização, remoção de stopwords e stemming com `nltk`. |
-| `A - 04 Extração de Características` | Transformação de texto em números com `Bag of Words` e `TF-IDF`. |
-| `A - 05 Análise Sintática`        | Análise gramatical e marcação de classes gramaticais (POS Tagging) com `spaCy` e `nltk`. |
+| Pasta / Arquivo                          | Descrição |
+|-----------------------------------------|-----------|
+| `A - 02 Python e Bibliotecas`           | Conceitos fundamentais de Python, estruturas de controle, tipos de dados e bibliotecas como `pandas` e `numpy`. |
+| `A - 03 Processamento de Texto`         | Técnicas de limpeza de texto, tokenização, remoção de stopwords e stemming com `nltk`. |
+| `A - 04 Extração de Características`    | Transformação de texto em números com `Bag of Words` e `TF-IDF`. |
+| `A - 05 Análise Sintática`              | Análise gramatical e marcação de classes gramaticais (POS Tagging) com `spaCy` e `nltk`. |
 | `A - 06 Interpretação Semântica e Gramáticas` | Estudo de gramáticas formais, ambiguidade e análise semântica. |
-| `A - 07 Descoberta de Conhecimento` | Clusterização de textos e modelagem de tópicos com técnicas como LDA. |
-| `A - 10 Análise de Sentimentos`   | Classificação de sentimentos utilizando técnicas de Machine Learning. |
+| `A - 07 Descoberta de Conhecimento`     | Clusterização de textos e modelagem de tópicos com técnicas como LDA. |
+| `A - 10 Análise de Sentimentos`         | Classificação de sentimentos utilizando técnicas de Machine Learning. |
+| `A - 12 e A - 13 Modelo de Rede Neural` | Aplicação de modelos de redes neurais (como redes densas e recorrentes) para classificação de textos, usando `TensorFlow` e `Keras`. Inclui embeddings e avaliação de performance. |
 
 ---
 
@@ -22,7 +23,5 @@ Este repositório reúne notebooks desenvolvidos na disciplina de **Processament
 
 - Python 3
 - Jupyter Notebooks
-- `nltk`, `spaCy`, `pandas`, `numpy`, `scikit-learn`
-
----
+- Bibliotecas: `nltk`, `spaCy`, `pandas`, `numpy`, `scikit-learn`, `keras`, `tensorflow`
 
